@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Naitik-Nigam
+- 👀 I’m interested in Software Development 
